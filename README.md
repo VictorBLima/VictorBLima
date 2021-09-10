@@ -1,5 +1,5 @@
-##Hi there! I'm Victor
-##Olá! Eu sou o Victor
+## Hi there! I'm Victor
+## Olá! Eu sou o Victor
 - 🔭 I’m a Front-End Developer
 - 🌱 I’m currently learning React.js
  
